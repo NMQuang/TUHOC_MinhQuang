@@ -1,0 +1,80 @@
+REACTJS
+Phần 1: Cài Đặt Môi Trường Học
+
+Cài đặt Atom
+Cài đặt Git-SCM & Bash
+Hướng dẫn viết lệnh Command Line
+Cài đặt NodeJS
+Phần 2: Hello React JS
+
+Giới thiệu React JS
+Tạo Web Server trên NodeJS
+Hướng dẫn cách viết JSX
+Sử dụng Babel
+Viết trang HTML ReactJS đầu tay: Giới thiệu thông tin của bạn
+Phần 3: Component
+
+Giới thiệu Component
+Cách tạo Component
+Hiểu về trình tự hoạt động của một Component
+Cách Mount một Component
+Tạo & Sử dụng Properties
+Chu kỳ hoạt động của một Component
+Quản lý events trên một Component
+Quản lý State (Trạng thái) của một Component
+Update Component
+Component lồng nhau.
+Phần 4: Kết Nối Cơ Sở Dữ Liệu Với Firebase
+
+Đăng kí & tích hợp Firebase
+Kiến trúc một ứng dụng ReactJS kết nối Firebase
+Các phương pháp PUSH dữ liệu lên Firebase: PUSH/SET
+Tạo Component Get data từ Firebase
+Đổ dữ liệu từ Firebase vào ListView
+Get hình ảnh từ Firebase vào ListView
+Tạo form gửi dữ liệu
+Đăng kí thành viên với Firebase
+Đăng nhập thành viên với Firebase
+Debug với Firebase Chrome Extension
+Phân quyền database trên Firebase
+Phần 5: Thiết Kế Giao Diện Với Foundation Style
+
+Giới thiệu Foundation
+Cài đặt Foundation
+Định dạng Navigation
+Định dạng một trang web cơ bản với Foundation
+Tự tạo CSS mới cho Foundation
+Cấu hình CSS
+Phần 6: Redux
+
+Tại sao phải dùng Redux?
+Cài đặt Redux
+Các hàm trong Redux
+Khởi tạo Reducer & truy cập State của ứng dụng
+Dispatching & Handling các Actions
+Redux: Thêm phần tử vào mảng.
+Redux: Cập nhật / Xóa phần tử trong mảng.
+Làm việc với nhiều Reducers.
+Asynchronus actions.
+React-Redux: Provider & Connect
+Cấu hình Local Storage với Redux
+
+
+
+--------------------------------------------------------------------------------
+NODEJS
+Chương 3: Web Service: Xây Dựng Restful API Với NodeJS
+
+Đây là một trong những phần quan trọng nhất, đặc biệt là đối với những Mobile Developer. Chúng ta sẽ học cách kết nối database MySQL & MongoDB từ NODEJS, và kết quả hiển thị dạng JSON. Đặc biệt, chúng ta sẽ được xây dựng 01 app trên Android & 01 app trên iOS để tương tác với Server NODEJS.
+
+Chương 4: NodeJS Kết Nối CSDL MySQL & MongoDB
+
+Chúng ta sẽ học cách kết nối cơ sở dữ liệu từ NodeJS, cách thực hiện các truy vấn SELECT, INSERT, DELETE, UPDATE với MySQL (Rất thân thuộc với các bạn lập trình PHP).
+
+Chương 5: Express - Thiết Kế Trang Web Hoàn Chỉnh Với Express
+
+Ở chương này, chúng ta sẽ học cách xây dựng một trang web hoàn chỉnh với Express. Express là một web application framework for node nó cung cấp cho chúng những rất nhiều tính năng mạnh mẽ trên nền tảng web và các ứng dụng di động. Ngoài ra, Express hỗ trợ các phương thức HTTP và middleware tạo ra 1 API rất mạnh mẽ và sử dụng dễ dàng hơn.
+
+Chương 6: SocketIO - Xây Dựng Ứng Dụng Thời Gian Thực (RealTime)
+
+Socket IO là một module giúp cho chúng ta có thể truyền tải dữ liệu từ Client đến Server (hoặc ngược lại) thời gian thực. Ví dụ đang có 100 người sử dụng ứng dụng, chỉ cần 1 người update một file hình lên server, thì ngay lập tức, 999 người còn lại sẽ tự động hiển thị tấm hình đó lên. Chúng ta sẽ học Lập trình Socket IO trên cả 3 nền tảng: Web, iOS & Android.
