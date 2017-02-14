@@ -1,0 +1,85 @@
+/*no-boder*/
+.no-boder{
+	border-radius: 0px;
+	border: none;
+}
+/* top-header*/
+.top-header{
+	background-color: #F5F5F5;
+	padding: 10px 0px;
+}
+
+.top-header .lang{
+	font-size: 12px;
+}
+.top-header .lang button{
+	border:none;
+	border-radius: 0px;
+}
+.top-header .lang ul .dropdown-menu{
+	margin-top: 0px;
+}
+
+.top-header .top-link li{
+	float: left;
+	padding:0px 15px;
+	border-right: 1px solid #e1e1e1;
+}
+
+.top-header .top-link li:last-child{
+	border: none;
+	padding-right: 0px;
+}
+
+/* main-header*/
+.main-header{
+	padding:35px 0px;
+}
+
+.main-header .search-w input[type=text]{
+	width: 205px;
+}
+.main-header .search-w button{
+	margin-right: -38px;
+}
+
+/*logo*/
+/*cart - wishlist*/
+.cart-w,.wishlist-w{
+	float: left;
+}
+
+.cart-w{
+	margin: 0px 20px 0px 0px;
+}
+
+.cart-wish-w span{
+	border: 1px solid #e1e1e1;
+	padding: 5px 10px;
+	display: block;
+	float: left;
+	border-right: none;
+}
+.cart-wish-w span strong{
+	font: 12px;
+	font-weight: normal;
+	color: #F2532F;
+	padding: 0px 10px 0px 0px;
+}
+
+.cart-wish-w a span{
+	border:none;
+}
+.cart-wish-w a{
+	display: block;
+	float: left;
+	width: 39px;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+	color: #fff;
+	background: #F2532F;
+	margin-top: -3px;
+	padding-top: 5px;
+	padding-left: 3px;
+}

@@ -1,0 +1,229 @@
+*{
+	margin:0;
+}
+
+body{
+	font-family: myFont;
+}
+	#container{}
+	nav{
+		background: #FCEBB6;
+		color: white;
+		position: fixed;
+		width: 100vw;
+		z-index: 1;
+	}
+		nav ul{
+			display: flex;
+		}
+			nav li{
+				list-style: none;
+				padding: 20px;
+				transition: background .5s,color .5s;
+				font-family: 'Merienda', cursive;
+				font-size: 22px;
+			}
+			nav li:hover{
+				background: #F07818;
+				color: #00002E;
+			}
+			nav a{
+				color: white;
+				text-decoration: none;
+			}
+	header{
+		background: lightblue;
+		background-image: url("image/logo_main.jpg");
+		background-repeat: no-repeat;
+		background-size: 100vw 100vh;
+		width: 100vw;
+		height: 100vh;
+		padding: 20% 28%;
+		box-sizing:  border-box;
+		display: flex;
+		justify-content: center;
+		
+	}
+		
+			#left{
+					padding: 60px 0;
+					margin: 10px;
+					font-family: myFont;
+					font-size: 30px;
+					opacity: 0;
+					animation: left_anim 2s;
+					animation-fill-mode: forwards;
+				}
+				#left p{
+					text-shadow: 5px 5px 5px white;
+					text-size:18px;
+				}
+
+			#right{
+					
+					height: 100px;
+					width: 100px;
+					margin: -250px 10px;
+					opacity: 0;
+					animation:right_anim 1s;
+					animation-fill-mode: forwards;
+					animation-delay: 1s;
+					
+				}
+				#right img{
+					border-radius: 100px;
+				}
+		
+	#one{
+		width: 100vw;
+		padding: 20px;
+		background: #993300;
+		color: white;
+		border-top: 3px solid red;
+		box-sizing: border-box;
+	}
+		#one h1{
+			text-align: center;
+			padding:10px;
+			font-size: 30px;
+			text-decoration: underline;
+		}
+		#one p{
+			-webkit-column-count:2;
+			-moz-column-count:2;
+			column-count: 2;
+			width: 600px;
+			margin: 0 auto;
+		}
+		#one button{
+			background: #993300;
+			border: 3px solid white;
+			border-radius: 15px;
+			color: white;
+			margin: 20px 0;
+			width: 200px;
+			height: 50px;
+			font-size: 20px;
+			transition: background .8s, color .8s;
+			outline: none;
+		}
+		#one button:hover{
+			background: white;
+			color: #550066;
+		}
+	#two{
+		width: 100vw;
+		padding: 20px;
+		background: #6666C2;
+		color: white;
+		border-top: 3px solid #00007A;
+		box-sizing: border-box;
+	}
+		#two h1{
+
+			text-align: center;
+			padding:10px;
+			font-size: 30px;
+			text-decoration: underline;
+			color: white;
+		}
+
+		#work-group{
+			justify-content: center;
+			display: flex;
+			align-items: center;
+			flex-flow: row wrap;
+		}
+		#two article{
+			width: 300px;
+			height: 200px;
+			background: aqua;
+			margin: 10px 20px;
+		}
+	#three{
+		width: 100vw;
+		padding: 20px;
+		background: lightblue;
+		color: white;
+		border-top: 3px solid #00007A;
+		box-sizing: border-box;
+	}
+		#three h1{
+			text-align: center;
+			padding:10px;
+			font-size: 30px;
+			text-decoration: underline;
+		}
+		#three form{
+			width: 600px;
+			margin: 0 auto;
+		}
+			#three input{
+				display: block;
+				width: 600px;
+				height: 50px;
+				font-size: 20px;
+				margin: 10px 0;
+				background: lightgrey;
+				border-top:  1px solid white;
+				border-left: 0;
+				border-right: 0;
+				border-bottom: 0;
+				outline: none;
+				color: white;
+			}
+			#three textarea{
+				display: block;
+				width: 600px;
+				height: 200px;
+				font-size: 20px;
+				margin: 10px 0;
+				color: white;
+				background: lightgrey;
+
+				border-top:  1px solid white;
+				border-left: 0;
+				border-right: 0;
+				border-bottom: 1px solid white;
+				outline: none;
+			}
+			#three button{
+				background: lightblue;
+				border: 3px solid white;
+				border-radius: 15px;
+				color: white;
+				margin: 20px 0;
+				width: 200px;
+				height: 50px;
+				font-size: 20px;
+				transition: background .8s, color .8s;
+				outline: none;
+			}
+			#three button:hover{
+				background: white;
+				color: #550066;
+			}
+			::-webkit-input-placeholder{
+				color: white;
+			}
+		
+/*Rules*/
+@keyframes left_anim{
+	from{opacity:0;}
+	to{opacity:1;}
+}
+
+@keyframes right_anim{
+	from{
+		opacity:0;
+		margin-top: -250px}
+	to{
+		opacity:1;
+		margin-top: 10px;
+	}
+}
+
+@font-face{
+	font-family: myFont;
+}
+
