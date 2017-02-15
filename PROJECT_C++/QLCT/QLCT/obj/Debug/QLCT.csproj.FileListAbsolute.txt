@@ -1,0 +1,11 @@
+D:\Project-C++\QLCT\QLCT\bin\Debug\QLCT.exe.config
+D:\Project-C++\QLCT\QLCT\obj\Debug\QLCT.csprojResolveAssemblyReference.cache
+D:\Project-C++\QLCT\QLCT\obj\Debug\QLCT.Properties.Resources.resources
+D:\Project-C++\QLCT\QLCT\obj\Debug\QLCT.Form1.resources
+D:\Project-C++\QLCT\QLCT\obj\Debug\QLCT.csproj.GenerateResource.Cache
+D:\Project-C++\QLCT\QLCT\bin\Debug\QLCT.exe
+D:\Project-C++\QLCT\QLCT\bin\Debug\QLCT.pdb
+D:\Project-C++\QLCT\QLCT\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Project-C++\QLCT\QLCT\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Project-C++\QLCT\QLCT\obj\Debug\QLCT.exe
+D:\Project-C++\QLCT\QLCT\obj\Debug\QLCT.pdb

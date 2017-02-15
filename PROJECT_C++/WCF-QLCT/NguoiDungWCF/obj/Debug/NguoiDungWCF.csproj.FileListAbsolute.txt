@@ -1,0 +1,7 @@
+D:\Project-C++\WCF-QLCT\NguoiDungWCF\bin\Debug\NguoiDungWCF.dll.config
+D:\Project-C++\WCF-QLCT\NguoiDungWCF\bin\Debug\NguoiDungWCF.dll
+D:\Project-C++\WCF-QLCT\NguoiDungWCF\bin\Debug\NguoiDungWCF.pdb
+D:\Project-C++\WCF-QLCT\NguoiDungWCF\obj\Debug\NguoiDungWCF.csprojResolveAssemblyReference.cache
+D:\Project-C++\WCF-QLCT\NguoiDungWCF\obj\Debug\NguoiDungWCF.dll
+D:\Project-C++\WCF-QLCT\NguoiDungWCF\obj\Debug\NguoiDungWCF.pdb
+D:\Project-C++\WCF-QLCT\NguoiDungWCF\bin\Debug\DevComponents.DotNetBar2.xml

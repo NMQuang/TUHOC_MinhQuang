@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebService_USMQ", "D:\Project-C++\WebService_USMQ\", "{5E1917AC-86D9-48B7-B673-B47A70E3B1D4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_16344"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Project-C++\WebService_USMQ\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16344\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_16344"
+		Release.AspNetCompiler.PhysicalPath = "D:\Project-C++\WebService_USMQ\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16344\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "16344"
+		SlnRelativePath = "D:\Project-C++\WebService_USMQ\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E1917AC-86D9-48B7-B673-B47A70E3B1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1917AC-86D9-48B7-B673-B47A70E3B1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

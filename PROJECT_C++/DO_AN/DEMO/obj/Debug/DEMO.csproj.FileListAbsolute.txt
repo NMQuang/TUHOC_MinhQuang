@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\bin\Debug\DEMO.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\bin\Debug\DEMO.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\obj\Debug\DEMO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\obj\Debug\DEMO.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\obj\Debug\DEMO.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\DO_AN\DEMO\obj\Debug\DEMO.pdb
+D:\Project-C++\DO_AN\DEMO\bin\Debug\DEMO.exe.config
+D:\Project-C++\DO_AN\DEMO\obj\Debug\DEMO.exe
+D:\Project-C++\DO_AN\DEMO\obj\Debug\DEMO.pdb

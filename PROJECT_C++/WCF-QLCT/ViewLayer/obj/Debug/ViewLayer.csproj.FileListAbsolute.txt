@@ -1,0 +1,12 @@
+D:\Project-C++\WCF-QLCT\ViewLayer\bin\Debug\ViewLayer.exe.config
+D:\Project-C++\WCF-QLCT\ViewLayer\bin\Debug\ViewLayer.exe
+D:\Project-C++\WCF-QLCT\ViewLayer\bin\Debug\ViewLayer.pdb
+D:\Project-C++\WCF-QLCT\ViewLayer\bin\Debug\NguoiDungWCF.dll
+D:\Project-C++\WCF-QLCT\ViewLayer\bin\Debug\NguoiDungWCF.pdb
+D:\Project-C++\WCF-QLCT\ViewLayer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Project-C++\WCF-QLCT\ViewLayer\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
+D:\Project-C++\WCF-QLCT\ViewLayer\obj\Debug\ViewLayer.Form1.resources
+D:\Project-C++\WCF-QLCT\ViewLayer\obj\Debug\ViewLayer.Properties.Resources.resources
+D:\Project-C++\WCF-QLCT\ViewLayer\obj\Debug\ViewLayer.csproj.GenerateResource.Cache
+D:\Project-C++\WCF-QLCT\ViewLayer\obj\Debug\ViewLayer.exe
+D:\Project-C++\WCF-QLCT\ViewLayer\obj\Debug\ViewLayer.pdb

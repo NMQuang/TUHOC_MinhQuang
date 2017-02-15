@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\bin\Debug\QLSanPham.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\bin\Debug\QLSanPham.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\bin\Debug\QLSanPham.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\obj\Debug\QLSanPham.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\obj\Debug\QLSanPham.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\obj\Debug\QLSanPham.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\obj\Debug\QLSanPham.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\obj\Debug\QLSanPham.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WebService_USMQ\QLSanPham\obj\Debug\QLSanPham.pdb

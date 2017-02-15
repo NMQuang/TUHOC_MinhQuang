@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="67d0bd58-c351-4f8d-b0d7-278f0ccbe814" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/NguoiDungWCF/NguoiDungBLL/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="e94bbc34-7dcb-4ff0-9397-afe2915d03bf" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NguoiDungWCF/NguoiDungBLL/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="d78dec59-d123-4a11-b1e3-227fdd577615" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NguoiDungWCF/NguoiDungBLL/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="afcd1c0d-ba94-49f6-9f42-2a94d9a0f2f4" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NguoiDungWCF/NguoiDungBLL/mex" />
+    <MetadataFile FileName="service2.xsd" MetadataType="Schema" ID="6b3d8b71-5d2c-417b-8f4f-93397f819edd" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NguoiDungWCF/NguoiDungBLL/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,11 @@
+D:\Project-C++\demoXML\demoXML\bin\Debug\demoXML.exe.config
+D:\Project-C++\demoXML\demoXML\obj\Debug\demoXML.csprojResolveAssemblyReference.cache
+D:\Project-C++\demoXML\demoXML\obj\Debug\demoXML.Form1.resources
+D:\Project-C++\demoXML\demoXML\obj\Debug\demoXML.Properties.Resources.resources
+D:\Project-C++\demoXML\demoXML\obj\Debug\demoXML.csproj.GenerateResource.Cache
+D:\Project-C++\demoXML\demoXML\bin\Debug\demoXML.exe
+D:\Project-C++\demoXML\demoXML\bin\Debug\demoXML.pdb
+D:\Project-C++\demoXML\demoXML\obj\Debug\demoXML.exe
+D:\Project-C++\demoXML\demoXML\obj\Debug\demoXML.pdb
+D:\Project-C++\demoXML\demoXML\obj\Debug\demoXML.ReadXml.resources
+D:\Project-C++\demoXML\demoXML\obj\Debug\demoXML.TimKiem.resources
