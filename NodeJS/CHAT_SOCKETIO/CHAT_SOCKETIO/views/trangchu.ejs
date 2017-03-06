@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="jquery.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+
+    var socket = io("http://localhost:3000");
+    socket.on("server-send-kqdk", function(data){
+      if(data=="1"){
+        alert("Dang ki thanh cong");
+      }else{
+        alert("Dang ki that bai");
+      }
+    });
+
+    socket.on("server-send-ms", function(data){
+      $("#noidungChat").append(
+        "<div>"+data.u+": "+data.d+"</div>"
+      );
+    });
+
+    $(document).ready(function(){
+      $("#btnDangKi").click(function(){
+        var u = $("#txtUn").val();
+        socket.emit("client-send-un", u);
+      });
+      $("#btnChat").click(function(){
+        var m = $("#txtMs").val();
+        socket.emit("client-send-ms", m);
+      });
+    });
+    </script>
+  </head>
+  <body>
+    <input type="text" id="txtUn" placeholder="Username" />
+    <input type="button" id="btnDangKi" value="Dang ki" />
+    <hr/>
+    <input type="text" id="txtMs" placeholder="Message..." />
+    <input type="button" id="btnChat" value="Chat" />
+    <div id="noidungChat"></div>
+  </body>
+</html>
